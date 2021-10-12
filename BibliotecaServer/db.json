@@ -1,0 +1,43 @@
+{
+    "usuarios": [
+      {
+        "nombre": "Mateo",
+        "apellido": "Di Giusto",
+        "date": "19",
+        "email": "test1@gmail.com",
+        "password": "123456789",
+        "pin": "010402",
+        "reservados" : [
+          
+        ]
+      },
+      {
+        "nombre": "Fulano",
+        "apellido": "De tal",
+        "date":"9",
+        "email": "test2@gmail.com",
+        "password": "123456",
+        "pin": "010403",
+        "reservados" : [
+          
+        ]
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "El señor de los anillos 1",
+        "autor": "J.R.R Tolkien",
+        "descripcion": "El señor de los anillos 1",
+        "editorial": "J.R.R Tolkien edit",
+        "reservado": false
+      },
+      {
+        "titulo": "Argentina Primero",
+        "autor": "Martin Redrado",
+        "descripcion": "Argentina Primero papaaa",
+        "editorial": "Union Editorial",
+        "reservado": false
+      }
+      
+    ]
+  }
